@@ -1,0 +1,17 @@
+{
+  "name": "CLI_CRUD_JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "eslint": "^6.6.0",
+    "yargs": "^14.2.0"
+  }
+}
